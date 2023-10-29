@@ -2,12 +2,8 @@
 It is research based project, where I learned how collection classes are designed and it will help me to better in Java Programing
 
 
-## Learning
-I will add soon
-
-
 ## Resources
-[Java Collection Video](https://youtu.be/VE_AAUxTUCY?si=1Xwn0t5w6Swc9H-C)
+[Java Collection Video](https://youtu.be/VE_AAUxTUCY?si=1Xwn0t5w6Swc9H-C) &emsp;
 [Java Docs](https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html)
 
 
