@@ -1,5 +1,8 @@
-# Replica-Of-Java-Colllection
-It is research based project, where I learned how collection classes are designed and it will help me to better in Java Programing
+# DSA in Java
+This repository consist of:
+1) A research based project, where I learned how collection classes are designed and implemented and it will help me to better in Java Programing.
+2) A portion of repository consist of important methods of collection classes which is frequently used while solving DSA Questions.
+3) A portion of repository consist of some important pattern based questions.
 
 
 ## Resources
