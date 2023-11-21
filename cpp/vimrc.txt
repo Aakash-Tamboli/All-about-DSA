@@ -1,0 +1,5 @@
+// Copy following lines into ~/.vimrc file
+
+set viminfo='100,<1000,s100,h
+syntax off
+set nowrap

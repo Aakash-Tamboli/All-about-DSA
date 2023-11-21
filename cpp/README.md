@@ -14,4 +14,4 @@ Because I code in C++ from my freshmania, that's why I continue to develop my pr
 
 
 ## Credit
-Thanks to God,Thanks to Riddi Dutta,Prafull Sir,Love Babar, Thanks to All the Creator That I've Used his/her Application Like vim,etc
+Thanks to God,Thanks to Prafull Sir,Love Babar, Thanks to All the Creator That I've Used his/her Application Like vim,etc
