@@ -1,0 +1,7 @@
+First of all, litrally no one knows, what is right way to learn DSA.
+
+What I learn from my failure
+1) Understand algos, memorize pseudo code, it will help you to explain and code in any language.
+2) Stick with C++, it has all required DS.
+3) Don't spend more than 1 hour on DSA Question, If you make it then great otherwise dont't feel bad its a opportunity to learn new problem solving skill.
+4) The More Question you do, The More Efficient problem solver you become.
