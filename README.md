@@ -10,4 +10,4 @@ This repository consist of:
 4) java
 
 ## Credit
-Thanks to God,Thanks to Riddi Dutta,Prafull Sir,Love Babar, Thanks to All the Creator That I've Used his/her Application Like vim,etc
+Thanks to God,Thanks to Kelkar Sir, Abdul Bari, etc Thanks to All the Creator That I've Used his/her Application Like vim,etc
