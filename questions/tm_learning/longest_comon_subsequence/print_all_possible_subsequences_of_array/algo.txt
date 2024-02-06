@@ -1,0 +1,13 @@
+1st: find length of array ex: 4
+2nd: find sum of 3rd bit till 0th bit ex: 15 is answer So I store in k
+3rd: loop starts while(15(k) is not zero)
+	i=3
+	j=0
+     		inner loop starts while(i>=0)
+			(k>>i)&i if it is on then print arr[j]
+				 else skip that element.
+			j++
+			i--
+		inner loop ends
+	k--
+3rd: loop ends
