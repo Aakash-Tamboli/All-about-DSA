@@ -10,17 +10,17 @@ int main()
 {
 char x[]={"abcd"};
 int size=4;
-int upperBound=size-1;
 int k=pow(2,size)-1;
-int i,tmp;
+int i,j;
 
 while(k>0)
 {
 i=size-1;
-tmp=k;
+j=0;
 while(i>=0)
 {
-if(((tmp>>i)&1)) cout<<x[upperBound-i];
+if(((k>>i)&1)) cout<<x[j];
+j++;
 i--;
 }
 cout<<endl;

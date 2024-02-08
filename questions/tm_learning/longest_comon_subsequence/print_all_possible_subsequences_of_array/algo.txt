@@ -4,7 +4,7 @@
 	i=3
 	j=0
      		inner loop starts while(i>=0)
-			(k>>i)&i if it is on then print arr[j]
+		compare	(k>>i)&i if it is on then print arr[j]
 				 else skip that element.
 			j++
 			i--
