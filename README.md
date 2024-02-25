@@ -5,7 +5,7 @@ This repository consist of:
 
 ## Tools I've used 
 1) vim editor
-2) ubuntu OS
+2) ubuntu OS / Windows OS
 3) java
 4) MingW Compiler or Linux C/C++ Compiler
 5) Chrome
