@@ -1,3 +1,0 @@
-1) If you have ')' symbol then just subtract 1 you will get '(' symbol c=str[i]-1;
-	similary if you have ']' or '}' symbols then just subtract 2 you will get '[' or '{' symbol c=str[i]-2
-

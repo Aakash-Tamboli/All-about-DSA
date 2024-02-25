@@ -1,2 +1,0 @@
-Don't use Coding Ninjas Website thier questions are not well defined,
-Compiler is nearly broken.. use leetcode.

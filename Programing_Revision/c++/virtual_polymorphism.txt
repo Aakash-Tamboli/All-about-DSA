@@ -1,1 +1,0 @@
-A Base class pointer is capable of storing address of an object created of its derived class but through that pointer the methods of derived class cannot be access unless and until they are part of base class and declared as virtual
