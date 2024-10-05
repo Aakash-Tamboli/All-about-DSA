@@ -5,7 +5,7 @@
     "editor.cursorBlinking": "phase",
     "editor.cursorSmoothCaretAnimation": "on",
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "left",
     "editor.minimap.enabled": false,
     "window.zoomLevel": 2,
     "workbench.startupEditor": "none",
